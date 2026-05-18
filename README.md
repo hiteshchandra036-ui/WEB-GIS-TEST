@@ -1,1 +1,1 @@
-This is a population map of India made from using QGIS only for practice purpose
+This is a population map of India made from QGIS only for practice purpose
